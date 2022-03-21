@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">19481471_NguyenDuongMinhHuy_GK</string>
+    <string name="strike1">
+        <strike>$449</strike>
+    </string>
+    <string name="strike2">
+        <strike>$950</strike>
+    </string>
+
 </resources>

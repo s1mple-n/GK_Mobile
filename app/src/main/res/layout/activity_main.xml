@@ -62,7 +62,7 @@
         app:srcCompat="@drawable/bitwo" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnget"
         android:layout_width="360dp"
         android:layout_height="60dp"
         android:layout_marginTop="36dp"

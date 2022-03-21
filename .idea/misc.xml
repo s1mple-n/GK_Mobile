@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/YEAR3_HK2/Mobile/code/19481471_NguyenDuongMinhHuy_GK/app/src/main/res/drawable/bg_btn.xml" value="0.1" />
         <entry key="..\:/YEAR3_HK2/Mobile/code/19481471_NguyenDuongMinhHuy_GK/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/YEAR3_HK2/Mobile/code/19481471_NguyenDuongMinhHuy_GK/app/src/main/res/layout/activity_screen2.xml" value="0.25416666666666665" />
+        <entry key="..\:/YEAR3_HK2/Mobile/code/19481471_NguyenDuongMinhHuy_GK/app/src/main/res/layout/customlistview.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
